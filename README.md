@@ -1,1 +1,1 @@
-# my-project-on-GitHub-
+some  of my projects during my data analysis training at cirvee academy
